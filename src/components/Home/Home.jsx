@@ -50,6 +50,17 @@ export default function Home() {
       <h1 className='text-center text-2xl sm:text-5xl py-10 font-medium'>
         Lorem Ipsum Yojo
       </h1>
+
+      <div className='bg-yellow-900 text-white text-xl uppercase'>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem natus fuga
+        voluptate deserunt repudiandae, doloremque velit ducimus, libero
+        perferendis blanditiis eveniet expedita ex nulla commodi consequatur.
+        Quisquam voluptates repellat ipsum.
+      </div>
+      <p className='text-white bg-purple-700 capitalize p-4 text-left'>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto,
+        ducimus.
+      </p>
     </div>
   );
 }
